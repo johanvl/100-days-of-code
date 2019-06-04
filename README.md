@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Twitter](https://twitter.com/kellynvd)
+[Instagram](https://www.instagram.com/kellynvd/)
+
 ## Contents
 
 * [Rules](rules.md)
