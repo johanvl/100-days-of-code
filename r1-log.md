@@ -88,3 +88,13 @@ Started on [June 04, Tuesday, 2019].
 **Link(s) to studies:** [React w / Hooks and Redux](https://www.udemy.com/react-2nd-edition/)
 
 ---
+
+### :date: Day 8:
+
+**Today's Progress:** Today I learned about Stateless Functional Component which is just a plain javascript function which takes props as an argument and returns a react element.
+
+**Thoughts:** A functional component has no state, no lifecycle methods and it’s easy to write unlike a Class Component that has state, lifecycle methods and React creates an instance of a class component every time React renders it. Functional components are usually used to display some UI and class components are used for more complex tasks such as handling some logic, state and events.
+
+I also learned about the Default Props Values, React Dev Tools and Lifecycle Methods. Tomorrow's section will be about Webpack.
+
+**Link(s) to studies:** [React w / Hooks and Redux](https://www.udemy.com/react-2nd-edition/)
